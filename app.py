@@ -1,11 +1,11 @@
 import asyncio
 from pyppeteer import launch
-from bs4 import BeautifulSoup
 import os
 
 async def main():
-    browser = await launch({'defaultViewport': {'width': 1960, 'height': 1680}})
+    browser = await launch()
     page = await browser.newPage()
+    await page.setViewport({'width': 1920, 'height': 1080})
     await page.goto('https://truemoveh.truecorp.co.th/device#')
 
     await page.click('div.brand-opts')
@@ -23,9 +23,12 @@ async def main():
     for brand in brands[1:]:
 
         uri = 'https://truemoveh.truecorp.co.th/device?search_brand=' + brand + '&search_network=all&page=1'
-        os.mkdir(os.getcwd() + '/Screenshot/' +brand)
+        
+        if not os.path.exists(os.getcwd() + '/Screenshot/' + brand):
+            os.mkdir(os.getcwd() + '/Screenshot/' + brand)
+        
         await page.goto(uri)
-        # await page.waitFor(500)
+        await page.waitFor(500)
 
         number_of_pages = await page.evaluate('''
             () => {
@@ -35,28 +38,31 @@ async def main():
             }
         ''')
 
-        # all_links = []
-
+        all_links = []
+        f = open('Screenshot/' + brand + '/urls.txt',"w+")
         i = 0
         while(i < int(number_of_pages)):
-            path = '/Screenshot/' + brand + '/page_' + str(i) + '.png'
+            await page.waitForSelector('div.block-inner-main')
+            path = 'Screenshot/' + brand + '/page_' + str(i) + '.png'
             await page.screenshot({'path': path, 'fullPage' : True})
-        #     page_links = await page.evaluate('''
-        #         () => {
-        #             const links = document.querySelectorAll('a.txt-brand')
-        #             const urls = Array.from(links).map(link => link.href)
-        #             return urls
-        #         }
-        #     ''')
+            page_links = await page.evaluate('''
+                () => {
+                    const links = document.querySelectorAll('a.txt-brand')
+                    const urls = Array.from(links).map(link => link.href)
+                    return urls
+                }
+            ''')
 
-        #     all_links += page_links 
+            all_links += page_links 
             
             await page.click('div.ajx-pg-btn.ajx-pg-next.pg-right-arw')
             await page.waitFor(2000)
             i += 1
 
-        # for l in all_links:
-        #     print(l)
+        for l in all_links:
+            f.write(l + '\n')
+        f.close()
+        print('FINISHED : ' + brand)
     await browser.close()
 
 asyncio.get_event_loop().run_until_complete(main())

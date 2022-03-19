@@ -1,4 +1,6 @@
-FROM python:3.8
-
-RUN pip install pyppeteer
+FROM python:3.9
+WORKDIR /pyppeteer
 RUN pip install -U git+https://github.com/pyppeteer/pyppeteer@dev
+EXPOSE 8000
+COPY . /pyppeteer
+CMD ["python", "app.py"]
