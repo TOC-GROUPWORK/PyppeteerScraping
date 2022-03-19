@@ -23,7 +23,7 @@ async def main():
     for brand in brands[1:]:
 
         uri = 'https://truemoveh.truecorp.co.th/device?search_brand=' + brand + '&search_network=all&page=1'
-        os.mkdir(os.getcwd() + '/' +brand)
+        os.mkdir(os.getcwd() + '/Screenshot/' +brand)
         await page.goto(uri)
         # await page.waitFor(500)
 
@@ -39,7 +39,8 @@ async def main():
 
         i = 0
         while(i < int(number_of_pages)):
-            await page.screenshot({'path': brand + '/page_' + str(i) + '.png', 'fullPage' : True})
+            path = '/Screenshot/' + brand + '/page_' + str(i) + '.png'
+            await page.screenshot({'path': path, 'fullPage' : True})
         #     page_links = await page.evaluate('''
         #         () => {
         #             const links = document.querySelectorAll('a.txt-brand')
