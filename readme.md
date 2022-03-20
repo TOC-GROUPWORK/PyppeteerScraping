@@ -22,7 +22,12 @@ pip install -U git+https://github.com/pyppeteer/pyppeteer@dev
 
 ## Usage
 
-Run command below to start this app.
+Run the command below in this directory to get the brands list in this app.
 ```cmd
-python app.py
+python src/app.py
+```
+
+Run the command below in this directory to get information of the phone's promotion.
+```bash
+python src/Scrape.py
 ```
