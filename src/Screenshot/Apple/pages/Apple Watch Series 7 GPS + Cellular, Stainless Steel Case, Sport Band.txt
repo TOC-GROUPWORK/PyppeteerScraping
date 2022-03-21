@@ -1,0 +1,32 @@
+{
+    "model": "Apple Watch Series 7 GPS + Cellular, Stainless Steel Case, Sport Band",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ead6d09c77a5e3cc977dc8d6ab529960/apple_watch_series_7_cell_41mm_gold_stainless_steel_dark_cherry_sport_band_pdp_image_position-1__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ef504d6dea15e732251342ed225b67ed/apple_watch_series_7_cell_41mm_gold_stainless_steel_dark_cherry_sport_band_pdp_image_position-2__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/45002f4250c38701471d8d3a555848e1/apple_watch_series_7_cell_41mm_gold_stainless_steel_dark_cherry_sport_band_pdp_image_position-3__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/21ed228663f967ada39bcc30053a61dd/apple_watch_series_7_cell_41mm_gold_stainless_steel_dark_cherry_sport_band_pdp_image_position-4__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d1abf9f4eb6a76c18c3ba6ca25cffc08/apple_watch_series_7_cell_41mm_gold_stainless_steel_dark_cherry_sport_band_pdp_image_position-6__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7bc2d6602ab8364496c8283477b46b27/apple_watch_series_7_cell_41mm_gold_stainless_steel_dark_cherry_sport_band_pdp_image_position-7__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dcffa9298a2eb5644a813ecf5e087ffb/apple_watch_series_7_cell_41mm_gold_stainless_steel_dark_cherry_sport_band_pdp_image_position-8__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d0ee3d0fed652fa4cd8bdfe8c9c43754/apple_watch_series_7_cell_41mm_gold_stainless_steel_dark_cherry_sport_band_pdp_image_position-9__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f57f18b3eb2c9342d1b10fc913d402ff/31-41mm-graphite-abyss-blue.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6722482e4bdb24e3df21a8cf6621de4b/30-41mm-silver-starlight.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7c78c4041b0fd210d25e2f8649b2fb31/34-45mm-graphite-abyss-blue.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3dc5f9c0b3c410ff9eb9909ae82a681f/32-45mm-gold-dark-cherry.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ea493c60f9718184e0ef73145739d516/33-45mm-silver-starlight.jpg"
+    ],
+    "colors": [
+        "rgb(207, 192, 163)",
+        "rgb(217, 217, 217)",
+        "rgb(163, 163, 163)"
+    ],
+    "color_names": [
+        "Gold, Dark Cherry",
+        "Silver, Starlight",
+        "Graphite, Abyss Blue"
+    ],
+    "rams": [
+        "41mm",
+        "45mm"
+    ]
+}

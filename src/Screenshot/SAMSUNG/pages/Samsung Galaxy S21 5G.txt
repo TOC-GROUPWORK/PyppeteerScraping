@@ -1,0 +1,35 @@
+{
+    "model": "Samsung Galaxy S21 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ede4f856a2a8d86326463246dcc1ce96/s21---phantom-violet-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e49b98c8d309531c7b176d4f45de38c2/s21---phantom-gray-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8f4fac83140f4185a6a88c348b22e404/sm-g990g991_s21_phantom-pink_back_201110_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f79f7bd3c89e0253497dabf8b7c9a30a/sm-g990g991_s21_phantom-pink_front_201110.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a748678066578c931533b9429517e486/sm-g990g991_s21_phantom-pink_front-l30_201110.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/00ef59470ca4f8a85532adac4ee73ca3/sm-g990g991_s21_phantom-pink_front-r30_201110.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9d59e7e88b36c46cdd952e21c7215700/sm-g990g991_s21_phantom-pink_back_201110.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e35f1655debdc1b7e7f5726355325fd8/sm-g990g991_s21_phantom-pink_back-l30_201110.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/be4331fe1546bab2644c9cfed55ed546/sm-g990g991_s21_phantom-pink_back-r30_201110.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bedaaf45e1c41c2eb8ad0d35d92a6470/1-s21-sidesshot.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1ad06ea3d7e4f6f5f1afc6a0d00114c0/1-s21addrom.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9770665270387d3ac2d3b773c0e7b9ab/3-s21addrom.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4e3b55141b447ece7bfc48a9b445a0a3/2-s21addrom.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9785132337af097f975f108c39d0c8ed/6-s21addrom.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6fb9bde883a8cd871ab2863d004aa9b1/4-s21addrom.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1ce358fc3656577859ec64527956139f/5-s21addrom.jpg"
+    ],
+    "colors": [
+        "rgb(116, 117, 122)",
+        "rgb(243, 199, 190)",
+        "rgb(113, 104, 161)"
+    ],
+    "color_names": [
+        "Phantom Gray",
+        "Phantom Pink",
+        "Phantom Violet"
+    ],
+    "rams": [
+        "128GB",
+        "256GB"
+    ]
+}

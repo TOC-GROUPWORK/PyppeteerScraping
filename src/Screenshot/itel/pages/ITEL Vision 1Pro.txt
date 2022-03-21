@@ -1,0 +1,22 @@
+{
+    "model": "ITEL Vision 1Pro",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7c9d925b56240f2fcf2db0119405a397/02-3000092357-2_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d773c5f9a13525014858e0928fea95d1/01-3000092356-2_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e9e8b617ae5f4886ab75491da42150d9/01-3000092356-2_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2d9f6158c151fec39771466f6c57db91/01-3000092356-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/188aad0c2e5c05c8f636ba58a6d9b874/01-3000092356-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3b547d4eaa3a504c58b15406779a168b/01-3000092356-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/00de42f3be3c4f3743802932fa5ad665/01-3000092356-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/461a2c95fb39cb111f9d242198c1c480/02-3000092357-2_r.jpg"
+    ],
+    "colors": [
+        "rgb(3, 196, 203)",
+        "rgb(126, 146, 209)"
+    ],
+    "color_names": [
+        "Cosmic Shine",
+        "Ice Crystal Blue"
+    ],
+    "rams": []
+}

@@ -1,0 +1,29 @@
+{
+    "model": "Xiaomi Redmi 9A",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ce9c2db9c2dfbe20a18da7d814a88290/03-3000087491-2_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f2f815b6fc5a9dc92e5c1d0728ea3e6b/01-3000087489-2_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/0903bc40624f30a8528ba65749b6890f/02-3000087490-2_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/71e4ea209f22c7d688da1cf243461c62/02-3000087490-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/25cf5ab309bb9d3beb144926ee75b4bb/02-3000087490-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1a23c9edf6907240395d52033a34cbcc/02-3000087490-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8b6d08daf0f6d6b9068f19446087aeab/02-3000087490-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bb2c0cf5750d645f144c4db57d9f0a33/02-3000087490-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4777ac7bd35c37ad1e69ff55ac220207/02-3000087490-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/11266e670e523122da817aefe8d7cccb/02-3000087490-9.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d33b0172f866ac584e610e1cc036f017/03-3000087491-2_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/66238cd752aa6a17537ad0dfd1e68041/02-3000087490-2_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b3a3962833666f4a6addf27e502a6401/01-3000087489-2_r.jpg"
+    ],
+    "colors": [
+        "rgb(46, 124, 196)",
+        "rgb(62, 62, 64)",
+        "rgb(12, 183, 191)"
+    ],
+    "color_names": [
+        "Sky Blue",
+        "Granite Gray",
+        "Peacock Green"
+    ],
+    "rams": []
+}

@@ -1,0 +1,13 @@
+{
+    "model": "Huawei MediaPad M5 Pro - Gray",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/22cf65191dd457ab5a780a493b93076a/07-3000074281-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c1792a04628c108e7b261334cea1512c/07-3000074281-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e1b0685f40fdc15c76eaee0b7cf6d33a/07-3000074281-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7ce09cb81f2fd3f1ab55745bbb9c84cb/07-3000074281-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/663dd2016a55d913cbf0b8bcdff410cd/07-3000074281-5.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

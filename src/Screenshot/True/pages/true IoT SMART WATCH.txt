@@ -1,0 +1,10 @@
+{
+    "model": "true IoT SMART WATCH",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/40ff1ca2c134da94b7269bb3c3079886/40ff1ca2c134da94b7269bb3c3079886.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7154d6ecb7352c6d317de4c74398bc02/7154d6ecb7352c6d317de4c74398bc02.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

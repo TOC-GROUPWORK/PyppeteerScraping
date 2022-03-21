@@ -1,0 +1,29 @@
+{
+    "model": "iPhone 11",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ef6b04f46f35595cc94b94a69d3273da/00-thumbnailimage1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a942551e9f9abfa19d9c39f0af4a4d7d/00-thumbnailimage2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/152fa7dfd1ab57e36ad1c7d43ca5e295/00-thumbnailimage3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6949eadc01a5d568711e3898f40c0955/00-thumbnailimage4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/62580f3ca6898a5d224fb198045a0bff/00-thumbnailimage5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4654d1e699fc4704092a15e0d15fb17d/00-thumbnailimage6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5573d19f140c057fd7989cef6ca5d267/00-thumbnailimage8.gif",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4ee31e409cc14c556a52390b9a061bb3/001-3000088620black.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2bde129a183c14c659fb03f8d03122c7/005-3000088624purple.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/79195deb3542be967f5e1e796462a674/002-3000088621white.jpg"
+    ],
+    "colors": [
+        "rgba(0, 0, 0, 0)",
+        "rgb(0, 0, 0)",
+        "rgb(160, 107, 176)"
+    ],
+    "color_names": [
+        "White",
+        "Black",
+        "Purple"
+    ],
+    "rams": [
+        "64GB",
+        "128GB"
+    ]
+}

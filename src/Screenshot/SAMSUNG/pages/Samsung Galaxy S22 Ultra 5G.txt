@@ -1,0 +1,36 @@
+{
+    "model": "Samsung Galaxy S22 Ultra 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c9be564e0256a9471fd208c07087db6c/sm-s908_galaxys22ultra_front_burgundy_211119_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3137dcdc3ef6cecc3feff55349e2310c/sm-s908_galaxys22ultra_devicepenback_green_211119_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e052ae88516a1c14ae6b7975f23d1fe1/sm-s908_galaxys22ultra_front_phantomblack_211119_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c29e1d2f2bfd15fbff44724a4f780f1b/sm-s908_galaxys22ultra_front_phantomwhite_211119_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/55b47f124904aa4b204e437d2ae67a25/sm-s908_galaxys22ultra_devicepenfront_burgundy_211119.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f0054d3c2efe854e5593193599cde526/sm-s908_galaxys22ultra_devicepenback_burgundy_211119.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ba103b6ba876be92726272bddf864de5/sm-s908_galaxys22ultra_devicepenbackl30_burgundy_211119.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/286d7a937565abdcda17fb817db743d0/sm-s908_galaxys22ultra_devicepenbackr30_burgundy_211119.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/549f1812bd26a5eeb3469b60cc3389de/sm-s908_galaxys22ultra_penl30_burgundy_211119.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3cf84fbf417c6a7ab141489bc245817e/sm-s908_galaxys22ultra_penr30_burgundy_211119.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a3e19b1d4fc06e86799aa043ff5addad/sm-s908_galaxys22ultra_front_phantomblack_211119.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e0afb4bb3698b56c328a10cd2f7fd830/sm-s908_galaxys22ultra_devicepenback_green_211119_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5e5b6fa3093002fef64ae28c0fd672a9/sm-s908_galaxys22ultra_front_burgundy_211119.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ad72b1f7b48b2eec1fdd6782a7bac8f5/sm-s908_galaxys22ultra_front_phantomwhite_211119.jpg"
+    ],
+    "colors": [
+        "rgb(125, 51, 65)",
+        "rgb(25, 25, 25)",
+        "rgb(252, 252, 252)",
+        "rgb(66, 125, 84)"
+    ],
+    "color_names": [
+        "Burgundy",
+        "Phantom Black",
+        "Phantom White",
+        "Green"
+    ],
+    "rams": [
+        "128GB",
+        "256GB",
+        "512GB"
+    ]
+}

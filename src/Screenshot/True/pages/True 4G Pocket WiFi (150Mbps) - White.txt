@@ -1,0 +1,10 @@
+{
+    "model": "True 4G Pocket WiFi (150Mbps) - White",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bb58fab1c725ceed39641143603794a9/bb58fab1c725ceed39641143603794a9.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b37950fddcea2cc7eb34f184e59e824b/b37950fddcea2cc7eb34f184e59e824b.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

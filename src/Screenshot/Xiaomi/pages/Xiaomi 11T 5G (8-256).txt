@@ -1,0 +1,29 @@
+{
+    "model": "Xiaomi 11T 5G (8/256)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9988ad4a5717c5fbd807244880df58b6/t11-celestial-blue-7_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/cbd12d0fd60c0a6ba029b20f0c57da5b/t11-meteorite-gray-7_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b9b710ff883838e4d8eda885505f1605/t11-moonlight-white-7_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a98eb7ce71c2a4d87e957fda22e5697a/t11-moonlight-white-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7a579a3eadab055a4fb6b751e7fe06a8/t11-moonlight-white-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/570b6d5388f6765a033ffdbbf152fa76/t11-moonlight-white-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/05087d299678e024350f24e0e2441537/t11-moonlight-white-8.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/95a4fa319013efece53526b850929f77/t11-moonlight-white-9.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/92f9be8608f610aa6bdf64b98dc4c22f/t11-moonlight-white-11.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/de73c4601a1193da78d32e86df5d2d15/t11-moonlight-white-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8bdd5a69e303fa46f04f0c6df62d513c/t11-celestial-blue-7_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1770adbe7418fc8e1c9f19bef814d34e/t11-moonlight-white-7_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1e4aff8232824972b339f47bff20954e/t11-meteorite-gray-7_r.jpg"
+    ],
+    "colors": [
+        "rgb(255, 255, 255)",
+        "rgb(190, 190, 190)",
+        "rgb(176, 196, 222)"
+    ],
+    "color_names": [
+        "Moonlight White",
+        "Meteorite Gray",
+        "Celestial Blue"
+    ],
+    "rams": []
+}

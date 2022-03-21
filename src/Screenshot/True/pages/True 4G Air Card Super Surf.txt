@@ -1,0 +1,10 @@
+{
+    "model": "True 4G Air Card Super Surf",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/26acf1ebff6447fd358d598908b04110/26acf1ebff6447fd358d598908b04110.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d1fd3bf166a03b682106c412a0c42e91/d1fd3bf166a03b682106c412a0c42e91.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

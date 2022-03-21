@@ -1,0 +1,30 @@
+{
+    "model": "Samsung Galaxy Z Flip3 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c4715b0df4712b58381e50a79f3e718a/sm-f711_zflip3_5g_closedfront_phantomblack_210611.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6a25b4b6523634b6d6be8b6a3c3c76be/sm-f711_zflip3_5g_closedback_phantomblack_210611.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1ec3ac36a9eaef7b79fce74e01316b63/sm-f711_zflip3_5g_hinge_phantomblack_210611.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7c6da064b1981dcf7fab02115278c913/sm-f711_zflip3_5g_sidetabletop_phantomblack_210611.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dbfc4920d07bab280703295f0a1bd8c9/sm-f711_zflip3_5g_rside_phantomblack_210611.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bee99a7e9fb7ac996e84c4752d3cc1a3/sm-f711_zflip3_5g_openback_phantomblack_210611.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6072b7fc9d79b696e4bdb329af9dcaff/1-flip3-black-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fb33f97c65948505fa76099406e182fd/4-flip3-lavender-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ef57dfdb12fd7dccb5481d3e3ab1ec70/2-flip3-cream-4.jpg"
+    ],
+    "colors": [
+        "rgb(152, 134, 176)",
+        "rgb(0, 5, 8)",
+        "rgb(195, 235, 137)",
+        "rgb(249, 250, 210)"
+    ],
+    "color_names": [
+        "Lavender",
+        "Black",
+        "Green",
+        "Cream"
+    ],
+    "rams": [
+        "128GB",
+        "256GB"
+    ]
+}

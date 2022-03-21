@@ -1,0 +1,26 @@
+{
+    "model": "OPPO Reno7Z 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/721bcccf4ba561b9e71d1d823d44bf97/1-oppo-reno-7z-cosmic-black_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5e92527e9664108ce416eed51a20f907/1-oppo-reno-7z-rainbow-spectrum_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/22a01dfbdf3a830db845aaf9b08744b1/3-oppo-reno-7z-rainbow-spectrum.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/91bc320e06488df559d32a4bc6174ce9/2-oppo-reno-7z-rainbow-spectrum.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/57462ce2b7db3dd2df40701eda1feadf/1-oppo-reno-7z-rainbow-spectrum.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6fe5242a91e829475fc2378c6978f671/6-oppo-reno-7z-rainbow-spectrum.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/94c300def6474c441923ff2869d40ba6/4-oppo-reno-7z-rainbow-spectrum.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f619524912abe6a93232b827e1c10457/5-oppo-reno-7z-rainbow-spectrum.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5b5da6ba8d72fcf9230858452031bbe8/7-oppo-reno-7z-rainbow-spectrum.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ff81525e46851b8c2b9886d7f1c2bbe4/8-oppo-reno-7z-rainbow-spectrum.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/db41fb173a4ce4e9a56d8656f1280c48/6-oppo-reno-7z-rainbow-spectrum_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ca07d1408bf52a85ab177b1691c46d64/6-oppo-reno-7z-cosmic-black_r.jpg"
+    ],
+    "colors": [
+        "rgb(46, 41, 38)",
+        "rgba(0, 0, 0, 0)"
+    ],
+    "color_names": [
+        "Cosmic Black",
+        "Rainbow Spectrum"
+    ],
+    "rams": []
+}

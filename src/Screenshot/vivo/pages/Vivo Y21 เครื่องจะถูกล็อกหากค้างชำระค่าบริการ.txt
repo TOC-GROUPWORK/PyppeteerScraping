@@ -1,0 +1,25 @@
+{
+    "model": "Vivo Y21 \u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e08\u0e30\u0e16\u0e39\u0e01\u0e25\u0e47\u0e2d\u0e01\u0e2b\u0e32\u0e01\u0e04\u0e49\u0e32\u0e07\u0e0a\u0e33\u0e23\u0e30\u0e04\u0e48\u0e32\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7c73a089c3021c972ddbb13abbf9c402/metallic_y21_sixview_diamondglow_rgb_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3111e9b610250d3b1f82f4b29fe13c6e/y21_back_sixview_diamondglow_rgb_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/85d00f4cf54d360dc0e4dd9bc23a0701/y21_back_sixview_diamondglow_rgb_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/87710cfdccf97a44a5d5ff82eedfd671/y21_front_sixview_diamondglow_rgb.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5c2e13eac935b949d0b5241d7be159fe/03-l-front-l-right-l-y21-l-45degree-l-diamond-glow_rgb.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f6e39973f216a60ba02cb3a845529de7/03-l-front-l-left-l-y21-l-45degree-l-diamond-glow_rgb.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4c525675916bf442d64c7af9fc6b6cfc/y21_back_sixview_diamondglow_rgb.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9d8ee958eefa6fafd35ec48589730abf/02-l-left-l-y21-l-45degree-l-diamond-glow_rgb.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/25fdfd367d89c9989a9e8d9393eb3f49/01-l-right-l-y21-l-45degree-l-diamond-glow_rgb.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5e2c98d56dbb69e7cc30f45300bc9a9c/y21_back_sixview_diamondglow_rgb_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/367a019cbe9711e3d86f78f9c3868535/metallic_y21_sixview_diamondglow_rgb_r.jpg"
+    ],
+    "colors": [
+        "rgb(61, 85, 123)",
+        "rgb(235, 250, 255)"
+    ],
+    "color_names": [
+        "Blue",
+        "Diamond glow"
+    ],
+    "rams": []
+}

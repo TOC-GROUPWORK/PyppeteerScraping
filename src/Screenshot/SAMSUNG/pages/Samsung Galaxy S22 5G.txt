@@ -1,0 +1,37 @@
+{
+    "model": "Samsung Galaxy S22 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5397a1d586ec20e62d7fa71f05448f71/sm-s901_galaxys22_front_phantomwhite_211122_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bfb0904afebf6c6db79b9eff7a8d7937/sm-s901_galaxys22_front_pinkgold_211122_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8cd51e5025d0d2fc9100a1d39f8bf04b/sm-s901_galaxys22_front_phantomblack_211122_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/378d3319858fe7c1de4fbb6f87d440e3/sm-s901_galaxys22_front_green_211123_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fe153005065fc9c47ee72f26f9c390cc/sm-s901_galaxys22_frontl30_green_211123.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/755bd7257b487d24882b9df690dcd954/sm-s901_galaxys22_frontr30_green_211123.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/90feadbc9141759568e2654502903659/sm-s901_galaxys22_backl30_green_211123.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/eda23a136c7182b9a65b3f22058db078/sm-s901_galaxys22_backr30_green_211123.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bbeb26b0a1d8c0a5a66614a87dd360d7/sm-s901_galaxys22_lside_green_211123.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1feef1738d9f8ed4c15d187231f83e2f/sm-s901_galaxys22_rside_green_211123.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/547683840434d26200f842bcdd0f27ad/sm-s901_galaxys22_front_green_211123.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/398e7a3e1eaf7e2b5b9d3ef826edd132/sm-s901_galaxys22_front_phantomwhite_211122.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ca4576e863c3408d9e4dc2296809d485/sm-s901_galaxys22_front_pinkgold_211122.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/288dd4a41bf941f7a0001c1338e64c63/sm-s901_galaxys22_front_phantomblack_211122.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dc31d7437ad29be377b1adf66aa1fba0/sm-s906_galaxys22plus_front_phantomwhite_211122.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/82e89052a7b3e299e09e746bb3f3b5ad/sm-s906_galaxys22plus_front_phantomblack_211122.jpg"
+    ],
+    "colors": [
+        "rgb(25, 25, 25)",
+        "rgb(227, 196, 182)",
+        "rgb(252, 252, 252)",
+        "rgb(66, 125, 84)"
+    ],
+    "color_names": [
+        "Phantom Black",
+        "Pink Gold",
+        "Phantom White",
+        "Green"
+    ],
+    "rams": [
+        "128GB",
+        "256GB"
+    ]
+}

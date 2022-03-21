@@ -1,0 +1,14 @@
+{
+    "model": "True IOT Car Tracking (OBD2) 150MBPS \u0e41\u0e16\u0e21\u0e0b\u0e34\u0e21 \u0e40\u0e19\u0e47\u0e15\u0e40\u0e15\u0e47\u0e21\u0e2a\u0e1b\u0e35\u0e14 \u0e40\u0e14\u0e37\u0e2d\u0e19\u0e25\u0e30 10 GB \u0e19\u0e32\u0e19 12 \u0e40\u0e14\u0e37\u0e2d\u0e19",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5742778da9eb4823fd133f18a131c4fd/itiotcartrackingobd2true150msim.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8cf6c0e6d1c1a53fc9a19c266fc85c63/0430000897032.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/863c3088fd32cc6a7c02e869b4ad311c/0430000897033.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1570da927b450cc75c5426969f1aa3de/0430000897034.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/30ccb30e0886171cd7b3130717ce0438/0430000897035.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ff79f2451beb8a5cb916364eab81e7db/0430000897036.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

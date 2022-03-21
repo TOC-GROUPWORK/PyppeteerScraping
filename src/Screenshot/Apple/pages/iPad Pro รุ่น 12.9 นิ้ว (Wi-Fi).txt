@@ -1,0 +1,25 @@
+{
+    "model": "iPad Pro \u0e23\u0e38\u0e48\u0e19 12.9 \u0e19\u0e34\u0e49\u0e27 (Wi-Fi)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c31a3bec800cb2a6a4d82f101831b7eb/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/58339cabef7e79027d6bd8e6f336455f/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6eb23c88b57f79c8b2c56415ddc8c2cb/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d874021e754b98f10cc36cd24ed6b432/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/21b4d5c6fb74593c31fb529f95d7543b/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/633f20bc4dc315756c44d7cf197ce7ad/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e79ee6c5280fa55ffceb29d3542fe392/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/097c7d1ff3f938e4ba00b75c53e0394b/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ec3d42f8c9058a9ade10bc9af4686071/ipad-pro-12.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d76c54e68a926d3283392a5ee3273e06/ipad-pro-12.jpg"
+    ],
+    "colors": [
+        "rgb(179, 179, 179)"
+    ],
+    "color_names": [
+        "Grey"
+    ],
+    "rams": [
+        "128GB",
+        "512GB"
+    ]
+}

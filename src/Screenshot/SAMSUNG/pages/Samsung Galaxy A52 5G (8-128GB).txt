@@ -1,0 +1,26 @@
+{
+    "model": "Samsung Galaxy A52 5G (8/128GB)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fbadd61cfd7ad3a6a76ca38c7fd3ac16/01-3000090546-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/0ae52bae66988fd7f2911eb2a2391fe6/03-3000090548-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/34cc783ef31869024c414ffea045eb67/04-3000090549-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f012a8bbb1ec844d559ada41f80b3a34/02-3000090547-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5a20157781c69858e345e488872a9687/02-3000090547-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2763e51a217c1e868fd502dd83d0b72a/02-3000090547-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/03516e78bb1713d1e7216c7b70f92bf8/02-3000090547-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9998b56d4181cc0e4acd0b923db60f81/02-3000090547-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fa3fc2ed7fff8c883890a277721ffec9/02-3000090547-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/70254e8bbeccd1af4841b603f0dec623/02-3000090547-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1f6824318b5da0cc4fe336727fa01e08/02-3000090547-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/956c147f0cf68a2d2b083585a228f8b5/01-3000090546-1_r.jpg"
+    ],
+    "colors": [
+        "rgb(61, 85, 123)",
+        "rgb(208, 205, 229)"
+    ],
+    "color_names": [
+        "Blue",
+        "Violet"
+    ],
+    "rams": []
+}

@@ -1,0 +1,24 @@
+{
+    "model": "Samsung Galaxy Tab A7 Lite",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/36fa876e821f2fe5537dd6d167aabe68/tt_006_galaxy_tab_a7_lite_lte_silver_v_back_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/98510a5459e5cf0f5587113a23dead42/tt_006_galaxy_tab_a7_lite_lte_gray_v_back_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dedbd66309f15840794e6f4617b41bd2/007_galaxy_tab_a7_lite_lte_gray_v_front.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/cf02169e5280104f29f9cd9bc05a9763/008_galaxy_tab_a7_lite_lte_gray_v_front_l30.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/89e93eda5347deeb6bc9d5d439760cc1/009_galaxy_tab_a7_lite_lte_gray_v_front_r30.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f7ad8b9a7a3cea1d477b98b00709a88e/006_galaxy_tab_a7_lite_lte_gray_v_back.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bfc06b0b0f5bb2d4e7485bba7a640b2b/004_galaxy_tab_a7_lite_lte_gray_l_side.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/60422f60b5fc02c546498d87420321c5/005_galaxy_tab_a7_lite_lte_gray_r_side.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/41a6454a60beacf7ab57db35e5bcadf3/006_galaxy_tab_a7_lite_lte_silver_v_back_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f7a01814ccecdb9b5a0e2a0fc2729296/006_galaxy_tab_a7_lite_lte_gray_v_back_r.jpg"
+    ],
+    "colors": [
+        "rgb(243, 243, 243)",
+        "rgb(163, 163, 163)"
+    ],
+    "color_names": [
+        "Silver",
+        "Gray"
+    ],
+    "rams": []
+}

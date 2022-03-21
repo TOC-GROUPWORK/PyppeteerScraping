@@ -1,0 +1,26 @@
+{
+    "model": "TCL 20R 5G (4/128GB) \u0e23\u0e2d\u0e07\u0e23\u0e31\u0e1a\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e0b\u0e34\u0e21\u0e40\u0e04\u0e23\u0e37\u0e2d\u0e02\u0e48\u0e32\u0e22\u0e17\u0e23\u0e39\u0e21\u0e39\u0e1f \u0e40\u0e2d\u0e0a",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a57ca0f6d52c4615b4370f260f063e4e/gray-back_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3b626f827fdb6bbb67b4fa1bccc1a66c/blue-back_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7083f4a798eeff5c958e4136bc33ee31/blue-front.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/43acc9cc0f468e7ea111f05ae39db07e/blue-front-left.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a568d1f55de5556dc60e853e513eea47/blue-front-right.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/06f6337002fbc2642712701d0c95b6fe/blue-back.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4c39043e6cbb2b838ac0aedafad2f78a/blue-back-left.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a6bf3fec1a81f8e8ab11193da18d3df6/blue-back-right.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/90a90c1019b9d78201df29462891d04e/blue-left.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e2a1fcf3789bf865b7f01f4a84c2cfbf/blue-right.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c09aa742a85d2330321530a5af3df5d1/blue-back_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fcc7d0c7c2f6276023b18167ae7a1dd2/gray-back_r.jpg"
+    ],
+    "colors": [
+        "rgb(61, 85, 123)",
+        "rgb(163, 163, 163)"
+    ],
+    "color_names": [
+        "Blue",
+        "Gray"
+    ],
+    "rams": []
+}

@@ -1,0 +1,10 @@
+{
+    "model": "True IoT Pocket WiFi Smart1",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7f163eb3a9139cc49096677b71c9d60b/7f163eb3a9139cc49096677b71c9d60b.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/0715ed7b80ad161e59a5611b300d6d04/0715ed7b80ad161e59a5611b300d6d04.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

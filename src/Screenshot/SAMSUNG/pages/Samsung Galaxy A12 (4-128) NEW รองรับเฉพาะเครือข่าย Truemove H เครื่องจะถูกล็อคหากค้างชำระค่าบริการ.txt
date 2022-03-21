@@ -1,0 +1,26 @@
+{
+    "model": "Samsung Galaxy A12 (4/128) NEW \u0e23\u0e2d\u0e07\u0e23\u0e31\u0e1a\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e40\u0e04\u0e23\u0e37\u0e2d\u0e02\u0e48\u0e32\u0e22 Truemove H \u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e08\u0e30\u0e16\u0e39\u0e01\u0e25\u0e47\u0e2d\u0e04\u0e2b\u0e32\u0e01\u0e04\u0e49\u0e32\u0e07\u0e0a\u0e33\u0e23\u0e30\u0e04\u0e48\u0e32\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/be9fa93c655bc27ff9f30932fb2b3afa/1-qtplsy210805002-4_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d64d16d53a9362f7de49c9df90698e56/2-qtplsy210805002-4_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/34dccc50ef5bafb75023dd83dfb871cb/2-qtplsy210805002-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/30052cf5769d8eb9b1a57137ef6fe320/2-qtplsy210805002-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bec5706fbbc655738ed7cc58c0d187fc/2-qtplsy210805002-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8fd83b0e6c23072f312f96429352d4fc/2-qtplsy210805002-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ebec2244d6991883f0530f3757e96df9/2-qtplsy210805002-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4f7472f7e879c4110d30c8a5f44140f6/2-qtplsy210805002-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/17447bace4a9bdc9819b854df26a5e6f/01-30000913618.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9a9fe74aea07697ba2de50ab74b23a0c/2-qtplsy210805002-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ede3c85c227a0fac7c7e2945b6c08c36/2-qtplsy210805002-4_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/36bdfc0d8154e39dc999e000bda2a61c/1-qtplsy210805002-4_r.jpg"
+    ],
+    "colors": [
+        "rgb(0, 5, 8)",
+        "rgb(61, 85, 123)"
+    ],
+    "color_names": [
+        "Black",
+        "Blue"
+    ],
+    "rams": []
+}

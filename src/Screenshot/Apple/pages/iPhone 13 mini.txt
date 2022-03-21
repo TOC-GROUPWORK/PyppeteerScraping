@@ -1,0 +1,40 @@
+{
+    "model": "iPhone 13 mini",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/67dff6b2386ad1f9820d85d100b30e63/iphone_13_mini_green_pdp_position-1a_green_color__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e950ce85adf495f4b39b9d66e5444c27/iphone_13_mini_green_pdp_position-2_size__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8734bab5e51b8396ef40e215cfd746ec/iphone_13_mini_green_pdp_position-3_camera__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/69bbb35e785f22dad0ce738f7afafb22/iphone_13_mini_green_pdp_position-4_design__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4026fd4a484dbb4ea75d504e3c81bace/iphone_13_mini_green_pdp_position-5_colors__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8e06642b828c1a367dda5d6f0d10bbd3/iphone_13_mini_green_pdp_position-6_cinematic_mode__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/687becbb2a049223fcdb10f91e9c0da5/iphone_13_mini_green_pdp_position-7_featuresspecs__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/043141145024c56350374551755025b5/iphone_13_mini_green_pdp_position-8_accessory__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5763284dd42927dcc8b7a094e16ba440/iphone_13_mini_green_pdp_position-9_typec_lightning_cable__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/438caae4f4a972d3f19619e0db1d4379/iphone_13_mini_pdp_position-1a_color_starlight__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3a7339bc5e17640893cfe7c13659095d/iphone_13_mini_pdp_position-1a_color_midnight__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8f79f337ecd75c2edcb5c2f4ea7147a6/iphone_13_mini_pdp_position-1a_color_pink__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1877cd42a884c89112b768ebc90a9b56/iphone_13_mini_pdp_position-1a_color_productred__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/34fa54c7cc392093943f33cf11f87b1c/iphone_13_mini_pdp_position-1a_color_blue__th.jpg"
+    ],
+    "colors": [
+        "rgb(48, 46, 46)",
+        "rgb(255, 0, 0)",
+        "rgb(5, 48, 122)",
+        "rgb(66, 125, 84)",
+        "rgb(254, 159, 199)",
+        "rgb(242, 237, 228)"
+    ],
+    "color_names": [
+        "Midnight",
+        "(PRODUCT) RED",
+        "Blue",
+        "Green",
+        "Pink",
+        "Starlight"
+    ],
+    "rams": [
+        "128GB",
+        "256GB",
+        "512GB"
+    ]
+}

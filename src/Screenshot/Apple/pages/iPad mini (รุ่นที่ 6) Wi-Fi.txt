@@ -1,0 +1,33 @@
+{
+    "model": "iPad mini (\u0e23\u0e38\u0e48\u0e19\u0e17\u0e35\u0e48 6) Wi-Fi",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d9e180391fb52e3aa40bf713a4b0755e/ipad_mini_wi-fi_purple-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3c57406bfa6840034909cf3d451834fa/ipad_mini_wi-fi_purple-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3ba4121ffd16176fea9bb1ee34e3c959/ipad_mini_wi-fi_purple-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c39f1187e3bd8e9e5ba9dcdfd504a738/ipad_mini_wi-fi_purple-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8449681eaa2bdc7651d35e2222d822af/ipad_mini_wi-fi_purple-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c0e413ac13c639e48531cd79524df2b6/ipad_mini_wi-fi_purple-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/14fb2029216af9350bfef07438bf5be2/ipad_mini_wi-fi_purple-8.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/61d3b1c912f27afb15b6ba7eb21bb41f/ipad_mini_wi-fi_purple-9.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4753478a1ef8bb427ed0a5bcbb166ee4/ipad_mini_wi-fi_purple-10.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/df14e75b910157c37d89821e3532aebd/ipad_mini_wi-fi_pink-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5dddc1a219266ba78423c31b672b5987/ipad_mini_wi-fi_starlight-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e09fd8164347b7570066c97f11dd7ff0/ipad_mini_wi-fi_space-gray-2.jpg"
+    ],
+    "colors": [
+        "rgb(80, 80, 80)",
+        "rgb(160, 107, 176)",
+        "rgb(254, 159, 199)",
+        "rgb(242, 237, 228)"
+    ],
+    "color_names": [
+        "Space Gray",
+        "Purple",
+        "Pink",
+        "Starlight"
+    ],
+    "rams": [
+        "64GB",
+        "256GB"
+    ]
+}

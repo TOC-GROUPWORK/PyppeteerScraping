@@ -1,0 +1,32 @@
+{
+    "model": "Xiaomi 11 Lite 5G NE",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d0f2e40b47e9644d734b197c9c4d0c22/xiaomi-11-lite-bubblegum-blue-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f48efe05ce7d37e332b5395e8c0ac71c/xiaomi-11-lite-truffle-black-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/42f4516137e2c9a98873765506640c07/xiaomi-11-lite-snowflake-white-7_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/be232d7cba2fe380e3a7f0b5a472b2b7/xiaomi-11-lite-peach-pink-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/669e74caf447008853f46ef4dade29d7/xiaomi-11-lite-peach-pink-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/43e70fc6f074f0d37ecc6cfd74f0be47/xiaomi-11-lite-peach-pink-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/45fb347aeaf3695c2ccdc58850a13d4f/xiaomi-11-lite-peach-pink-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b1cdd0a934e3128668af3f7e84a24992/xiaomi-11-lite-peach-pink-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d8ec4972da17c3c0be915298fc5c99cd/xiaomi-11-lite-peach-pink-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6ae2c9234115ac1ea1276c1f9ca4ee65/xiaomi-11-lite-peach-pink-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6861f241eda34150fe16f8eb9ed81ce8/xiaomi-11-lite-peach-pink-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/30f7b824248ab756ecd4508678da171e/xiaomi-11-lite-truffle-black-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1371e37c7c95333e329dca5d2a6a0dee/xiaomi-11-lite-snowflake-white-7_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dd9f9823aa7e6459ba1c4a41bd10beb9/xiaomi-11-lite-bubblegum-blue-1_r.jpg"
+    ],
+    "colors": [
+        "rgb(194, 204, 255)",
+        "rgb(242, 242, 242)",
+        "rgb(92, 92, 92)",
+        "rgb(255, 181, 158)"
+    ],
+    "color_names": [
+        "Bubblegum Blue",
+        "Snowflake White",
+        "Truffle Black",
+        "Peach Pink"
+    ],
+    "rams": []
+}

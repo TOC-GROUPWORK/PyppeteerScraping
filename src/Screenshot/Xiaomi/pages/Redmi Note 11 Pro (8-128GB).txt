@@ -1,0 +1,27 @@
+{
+    "model": "Redmi Note 11 Pro (8/128GB)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/51a338e5ab5af87c600b01faad3afc45/t_redminote11pro-3.png",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8325e82eb4f149374c8a11c8fdfee8f4/t_redminote11pro-1.png",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ca6c20b7420f0c3966fcd57b7ca270e4/t_redminote11pro-4.png",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7c16fc38cef6e048577cc4e2aab1fc7d/t_redminote11pro-5.png",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/cb182a71a5f051b69c14efa46dc2656e/t_redminote11pro-2.png",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c38ac8236f0b9d3c51b7acf749a2d12b/t_redminote11pro-6.png",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c02cd6684714d9bc854c604cae5ae72d/4-redmi-note-11-pro-5g-bl.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/67cc7d44f6d03c8f4a5e400198551183/5-redmi-note-11-pro-5g-bl.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dba79f3dc6835aabe498ed5d5045a7ef/redmibl-x1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/08a97c0fb01d56580d1565c6448f1dc0/redmibl-x2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2d09f94406e85d05d4382332e261e9f5/8-redmi-note-11-pro-lte-bk_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2dab29b45c400bc325411c6a5fbf0e48/9-redmi-note-11-pro-5g-gy_r.jpg"
+    ],
+    "colors": [
+        "rgb(163, 163, 163)"
+    ],
+    "color_names": [
+        "Gray"
+    ],
+    "rams": [
+        "5G",
+        "LTE"
+    ]
+}

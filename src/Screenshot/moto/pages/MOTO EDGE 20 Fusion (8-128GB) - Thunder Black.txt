@@ -1,0 +1,18 @@
+{
+    "model": "MOTO EDGE 20 Fusion (8/128GB) - Thunder Black",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/52279a8c9ad1f8f5dccbbb19bf803616/2021_kyoto_basic-pack_electric-gunmetal_backside_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8a8525b8e8d080ef544048fe8bc4fc7f/2021_kyoto_basic-pack_electric-gunmetal_front-side.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ac49a5a222767ae2460de10284497159/2021_kyoto_basic-pack_electric-gunmetal_dyn-front-left.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/346d8d3123800091a390eafc96fe8b63/2021_kyoto_basic-pack_electric-gunmetal_dyn-front-right.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4d25515ae615b39b941cdbcef1790f0b/2021_kyoto_basic-pack_electric-gunmetal_dyn-back-right.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d27a9a2e426a5003027993ea0940ccf3/2021_kyoto_basic-pack_electric-gunmetal_dyn-back-left.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/34c211d84e8224e931c4e3722582a9fe/2021_kyoto_basic-pack_electric-gunmetal_left-side.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c13f98692ef9b17a6deaee32c6e99bf6/2021_kyoto_basic-pack_electric-gunmetal_right-side.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/52f21472160cbb4321e91acf8cb4bea0/2021_kyoto_basic-pack_electric-gunmetal_top.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dbe6e8907f67ea4b25ad50e893a87e31/2021_kyoto_basic-pack_electric-gunmetal_bottom.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

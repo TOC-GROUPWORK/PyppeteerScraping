@@ -1,0 +1,22 @@
+{
+    "model": "Realme GT 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/78a30a8b73d04bca0d2d7e000ac91b91/1-blue-realmegt5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4e13e65772102beeb5a1172749b7c091/a337c326836be54061cb0b908ed0a143_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/90b76339e819899d122cad66f6458eaa/a337c326836be54061cb0b908ed0a143.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dccc9843acd1ad420438cfb9b21c75cd/5-yellow-realmegt5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bf415bbe8c062989d67626752806b85c/4-yellow-realmegt5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/eb9aac4dfaa79012f07f8f3c5f0c2a3e/3-yellow-realmegt5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/201989c9406e2e31ddc6e12a685bdaf2/6-yellow-realmegt5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f43253da7f2b090b140a41c910c54fdb/2-blue-realmegt5g.jpg"
+    ],
+    "colors": [
+        "rgb(255, 255, 102)",
+        "rgb(61, 85, 123)"
+    ],
+    "color_names": [
+        "Yellow",
+        "Blue"
+    ],
+    "rams": []
+}

@@ -1,0 +1,18 @@
+{
+    "model": "TRUE S1",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/41e636832c5f99380eb6f6dc6d71e76c/true-1_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/45d263021307cd9468c0efa52ebfb436/true-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/781d2f1f961646c88a01e818cf7cbf34/true-1_f.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6188b73c68c3fad38a8af12b6678f3f1/back_80cm.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fbaabfba0ccc338acec2d06b59eff85b/r45_80cm.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a27d3b379a0840c7043699f9a401dff9/l45_80cm.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9fd1b0a369dc8a38c1074b0d60a039a6/left_80cm.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/38a0324a22a234942c11570c21b966a7/right_80cm.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/beb24d236a48e310557f1df00c560b31/bottom_80cm.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/0a3188034ad95fd7c6f4025d206a8a6a/top_80cm.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

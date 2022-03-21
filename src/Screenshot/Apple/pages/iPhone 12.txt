@@ -1,0 +1,38 @@
+{
+    "model": "iPhone 12",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/60d95c206f133e21b58f8ac935dfa1ca/iphone_12_blue_pdp_image1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fc488e7494eb3258172f455c1949f26e/iphone_12_blue_pdp_image2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2b9e6d26c9cd87038afab69ebfe24f9a/iphone_12_blue_pdp_image3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a1d80f025da5955184a176d01498e336/iphone-12-mini-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c40bfc2085b8348872f005a43dc6ac2d/iphone_12_blue_pdp_image5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2e6980e110d60dc9c52c2ef9a5355105/iphone_12_blue_pdp_image6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/461092fcfd8ef41ac7c8c86822fc2577/iphone_12_blue_pdp_image7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d30bc7c9cdb1ca34036563f09de0a2d7/iphone_12_green_pdp_image1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/0d3c9bbf8aa1cb5be21ce1383a10583b/iphone-12-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/34b864113c4447a31479e901f233e8c1/iphone_12_productred_pdp_image1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4c5586ed33f22dd3a3c51224616d80c9/iphone_12_white_pdp_image1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b245fa1ffc5fe214642aaea39623e0a3/iphone_12_black_pdp_image1.jpg"
+    ],
+    "colors": [
+        "rgba(0, 0, 0, 0)",
+        "rgb(255, 0, 0)",
+        "rgb(0, 0, 0)",
+        "rgb(160, 107, 176)",
+        "rgb(5, 48, 122)",
+        "rgb(66, 125, 84)"
+    ],
+    "color_names": [
+        "White",
+        "(PRODUCT) RED",
+        "Black",
+        "Purple",
+        "Blue",
+        "Green"
+    ],
+    "rams": [
+        "64GB",
+        "128GB",
+        "256GB"
+    ]
+}

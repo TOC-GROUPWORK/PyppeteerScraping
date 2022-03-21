@@ -1,0 +1,28 @@
+{
+    "model": "iPad Pro 11 \u0e19\u0e34\u0e49\u0e27 \u0e23\u0e38\u0e48\u0e19\u0e17\u0e35\u0e48 3 (WiFi+Cellular)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6be72c81c3862bbb1fb80a319a66cb7e/ipad_pro_11_cellular_space-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/71a887018dc040f8ef3bfc21afca2046/ipad_pro_11_cellular_space-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fa282fe6f9180463711d3de342659e35/ipad_pro_11_cellular_space-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7cd8b0da408839a626c662275c8e21b7/ipad_pro_11_cellular_space-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f291ce3058ea0e3c7e0a0a01d1786b10/ipad_pro_11_cellular_space-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/de0efbfd422b995d6d8995a093d6204b/ipad_pro_11_cellular_space-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/794d39a7a5312b6252108e13bb2d12dd/ipad_pro_11_cellular_space-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6e1c68cd147c4c33310d965ee6793e22/ipad_pro_11_cellular_space-8.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d3cfe3f93c21c81345376d2adaee12e8/ipad_pro_11_cellular_space-9.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9cfdc32579d5e682a825928ea7764f52/ipad_pro_11_cellular_silver-1.jpg"
+    ],
+    "colors": [
+        "rgb(179, 179, 179)"
+    ],
+    "color_names": [
+        "Grey"
+    ],
+    "rams": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+    ]
+}

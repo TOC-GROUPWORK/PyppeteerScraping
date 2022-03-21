@@ -1,0 +1,31 @@
+{
+    "model": "Samsung Galaxy Tab S7 FE (LTE)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/152265c207d9e129c401b8f7d3aca9b8/04-3000092304-1_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5d10648cf5c04d3c9b2a48e904a1688b/03-3000092303-1_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e291525fb9f75f39d9b54b59c14f6af2/01-3000092301-1_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/43f1ee94ee08750fac545b8b4fc0c39a/02-3000092302-1_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/cb7bc209937a8a80f6213e9d339224c3/02-3000092302-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e7c7f59072ec5a10f8a0eef5b9c6e835/02-3000092302-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/189d6107b8e4bf15d177847bd1174e0a/02-3000092302-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/63ee53075400b7b802591df29f7abd0f/02-3000092302-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bd8f7b1c61b6a7bab2379dae3b3b3a0a/02-3000092302-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/657ea392950d94927d1165f93f12c6e4/04-3000092304-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/43dfd91f461e644cd003b62a10552e83/03-3000092303-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/68aa5f7b525b8902479b68e41c516d34/02-3000092302-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3dce81faf35b38df2e34913c3ef99d53/01-3000092301-1.jpg"
+    ],
+    "colors": [
+        "rgb(220, 242, 211)",
+        "rgb(255, 232, 242)",
+        "rgb(250, 250, 250)",
+        "rgb(66, 66, 66)"
+    ],
+    "color_names": [
+        "Mystic Green",
+        "Mystic Pink",
+        "Mystic Silver",
+        "Mystic Black"
+    ],
+    "rams": []
+}

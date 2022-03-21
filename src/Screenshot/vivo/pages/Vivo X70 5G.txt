@@ -1,0 +1,26 @@
+{
+    "model": "Vivo X70 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9d805d4232d88ff416e964bbf24c9e8e/01-black_rt.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6c49fdd678c1604e425dcd1f6576b0af/02-rainbow_rt.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3f4627f7c00e3640a371a91b97ff2249/x70-l-rainbow-01.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/937a958513a6f4ae4ab23da249c3c4e2/x70-l-rainbow-07.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5dd953e34947908e1f87d7ecb2acf786/x70-l-rainbow-09.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c853a207dbf4dc04047b096b235f41b4/x70-l-rainbow-02.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/15fe7bc781290d65b533f97489fa8c5c/x70-l-rainbow-10.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d5296bffaad05db0f4495024de027f10/x70-l-rainbow-08.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ee17484b14547d4956505224ebca00fa/2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/366a7ac46f296c57aa3e77cf919fb8da/3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3cf82bd1e187bdc757ba844111da9241/x70-l-rainbow-02_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fd393f2300e34850e79703ce28a0ccce/x70-l-black-02_r.jpg"
+    ],
+    "colors": [
+        "rgb(46, 41, 38)",
+        "rgb(153, 204, 204)"
+    ],
+    "color_names": [
+        "Cosmic Black",
+        "Aurora Dawn"
+    ],
+    "rams": []
+}

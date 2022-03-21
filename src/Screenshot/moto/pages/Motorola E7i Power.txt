@@ -1,0 +1,18 @@
+{
+    "model": "Motorola E7i Power",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6bbcb83eb09f56f7a3ccdf6bdca3c632/01-3000090825-1_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9074c8c740ee419b62eb348b1df63048/01-3000090825-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/60927892876a21aa30423dc71dd6951e/01-3000090825-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9e48299eaa3248945c52a98d7b35b662/01-3000090825-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6d3071f0a6509b0d0852953cdd0d3cea/01-3000090825-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/359983d2148b99f70df8d3ae7a0a6224/01-3000090825-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ad4a8aa9739e876d006f9b4aaabe60ee/01-3000090825-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4863515b3e37e8e21d066f0de672b36d/01-3000090825-8.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fc1d9200f8eff74450314b200dbfa6e0/01-3000090825-9.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/02c97d1a1cbd8b25581022164f933c4c/01-3000090825-10.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

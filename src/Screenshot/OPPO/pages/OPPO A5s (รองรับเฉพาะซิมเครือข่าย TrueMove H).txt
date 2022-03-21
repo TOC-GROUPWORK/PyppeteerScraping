@@ -1,0 +1,25 @@
+{
+    "model": "OPPO A5s (\u0e23\u0e2d\u0e07\u0e23\u0e31\u0e1a\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e0b\u0e34\u0e21\u0e40\u0e04\u0e23\u0e37\u0e2d\u0e02\u0e48\u0e32\u0e22 TrueMove H)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/51e8656aca15f52d09a519ec21273beb/bannerupdate_detailpage-02.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/302606076939e22a956fa1d03f11fd73/02---3000079796-oppo-a5s---red-1_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/691e4ce59b1b8eb86859333d1e362a9b/02---3000079796-oppo-a5s---red-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/678ab0ad4249bf6ade932323f9295316/02---3000079796-oppo-a5s---red-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f92ab7fc7fc8f55d821d9e61e849b260/02---3000079796-oppo-a5s---red-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dee55fcc1b303d777b47c5559311840c/02---3000079796-oppo-a5s---red-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3b40652fedd82aba68815cdc68a33cd9/05-3000080022-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/48a7eed5bc62911cfc631521f38efab8/05-3000080022-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/578ed549b15b4c6330cf7994152cb9fd/05-3000080022-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a74b874c21dca378759eaa42c9d52106/05-3000080022-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d4576875d780a570d1f8fe0ac61d229b/02---3000079796-oppo-a5s---red-1.jpg"
+    ],
+    "colors": [
+        "rgb(61, 85, 123)",
+        "rgb(232, 25, 25)"
+    ],
+    "color_names": [
+        "Blue",
+        "Red"
+    ],
+    "rams": []
+}

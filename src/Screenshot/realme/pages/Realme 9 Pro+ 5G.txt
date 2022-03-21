@@ -1,0 +1,26 @@
+{
+    "model": "Realme 9 Pro+ 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/756649fd9209bf117fc4a9e8ebbe1433/1000-realme9proplus-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c3363fb1f91b4b9ed967e0276d7fd52f/1000-realme9proplus-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7e615655ea8be0537a7a1eda67b47922/6-realme-9-pro-plus-aurora-green.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/877ef468b1454a5efc1be7f19a69c367/5-realme-9-pro-plus-aurora-green.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3c2827660115654816c792ae75481180/3-realme-9-pro-plus-aurora-green.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4b882bca4e4c37aab1d65b392d065f5c/7-realme-9-pro-plus-aurora-green.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/405ebde77226fa2757f8434882a1af9f/1-realme-9-pro-plus-aurora-green.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/748bd9da10daf24770613f78b3d9d61d/4-realme-9-pro-plus-aurora-green.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/281c895a560dd390ebcd85cc2070846e/2-realme-9-pro-plus-aurora-green.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/dc2bb82e3ec2aa669db1bbdbb3f981ec/8-realme-9-pro-plus-aurora-green.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/954bf41db12f2bad8e6be044fe9a9e01/7-realme-9-pro-plus-aurora-green_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1a0534452d6b73fc5fde18f90152817b/7-realme-9-pro-plus-sunrise-blue_r.jpg"
+    ],
+    "colors": [
+        "rgb(57, 115, 96)",
+        "rgb(140, 207, 255)"
+    ],
+    "color_names": [
+        "Aurora green",
+        "Sunrise Blue"
+    ],
+    "rams": []
+}

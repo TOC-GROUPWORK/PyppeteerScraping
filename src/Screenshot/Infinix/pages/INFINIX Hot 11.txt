@@ -1,0 +1,32 @@
+{
+    "model": "INFINIX Hot 11",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/00801534050e85155ac9c953510088db/hot-11-bk-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ba89a89724ddbe2b5273cbdd8e36aa4b/hot-11-eg-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2c6df5425ec0dadfc3a8b1421856010c/hot-11-pu-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/30a839b2e1979012a4736d960021d2b8/hot-11-sw-1_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a1cf6da0ea83440ce24fb4ffa1c5e8e3/hot-11-sw-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/29d09d3193b008ff3f447980438bb533/hot-11-sw-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/af13499aa0e37c6889b12022b310a78e/hot-11-sw-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/92b0e95e3abb1da80b1e07c2c1c6251a/hot-11-sw-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/88d9042a5710ca4dd56d4079f1877cc1/hot-11-sw-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/22c73118cbff116fbd3021f4e81036ee/hot-11-sw-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6383535f63042a9f798d8118bf0e5dd8/hot-11-pu-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/50b1121b6e8771669d156e9a86911ea2/hot-11-eg-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b95448dff19d4991e15f5b58982c1a9b/hot-11-sw-1_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/46a117d11441cd64d3b9e53da1bf39c2/hot-11-bk-1_r.jpg"
+    ],
+    "colors": [
+        "rgb(160, 107, 176)",
+        "rgb(72, 74, 79)",
+        "rgb(245, 245, 245)",
+        "rgb(106, 153, 104)"
+    ],
+    "color_names": [
+        "Purple",
+        "Polar Black",
+        "Silver Wave",
+        "Emerald Green"
+    ],
+    "rams": []
+}

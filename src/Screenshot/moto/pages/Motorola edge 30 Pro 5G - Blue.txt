@@ -1,0 +1,17 @@
+{
+    "model": "Motorola edge 30 Pro 5G - Blue",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7a1204f92373373112269f0b94013d1e/2021_rogue_basic-pack_cosmos_pdp-hero_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/570993772175d340a75218c26c1ad7ae/2021_rogue_basic-pack_cosmos_frontside.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a58b0b77aede9863c3f86abac436ea3e/2021_rogue_basic-pack_cosmos_dyn-frontside-left.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/cda07dc159a8731170dde89120e2e5e9/2021_rogue_basic-pack_cosmos_dyn-frontside-right.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a02d2d096dc62e49dd1f08bca337a881/2021_rogue_basic-pack_cosmos_backside.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6b28a87a9b2f7e1638df39a0cd26c5e3/2021_rogue_basic-pack_cosmos_dyn-backside-left.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/0256cf361ee0f42d70e3e1b8fd43f9fe/2021_rogue_basic-pack_cosmos_dyn-backside-right.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1cc9c94450813f87c84443250016bccc/2021_rogue_basic-pack_cosmos_leftside.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/28c2b9bb363bd04392a97c77ec40d370/2021_rogue_basic-pack_cosmos_rightside.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

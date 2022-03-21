@@ -1,0 +1,19 @@
+{
+    "model": "Xiaomi Mi 11 5G (8/256GB)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2d4956259226608cd1c2fc90a865e8cd/01-3000090420.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d17891f89ddad88bffba48ffe1bd716f/03-3000090422.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7ded10d8ea6563f85352701c62071a06/02-3000090421-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ed751dd299fb26f48936d0a36b36fab3/02-3000090421-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9612cfcc9359304478ff3d878bf66a85/02-3000090421-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/47530e94bdf53d299570091057bee63d/02-3000090421-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8ea5f32155dcf8db5a34a6d9ba16f410/02-3000090421-4.jpg"
+    ],
+    "colors": [
+        "rgb(46, 47, 52)"
+    ],
+    "color_names": [
+        "Midnight Gray"
+    ],
+    "rams": []
+}

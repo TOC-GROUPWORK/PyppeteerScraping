@@ -1,0 +1,40 @@
+{
+    "model": "Apple Watch Series 7 GPS + Cellular, Aluminium Case, Sport Band",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ca73d4ffee2b4139694e551693c85a74/apple_watch_series_7_cell_41mm_blue_aluminum_abyss_blue_sport_band_pdp_image_position-1__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7c0efffe06ae70abc0b0c09707c0d026/apple_watch_series_7_cell_41mm_blue_aluminum_abyss_blue_sport_band_pdp_image_position-2__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3e8ae1b39f3133867e42c6c3a67771b8/apple_watch_series_7_cell_41mm_blue_aluminum_abyss_blue_sport_band_pdp_image_position-3__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/81821815c7914405211adecb334319e2/apple_watch_series_7_cell_41mm_blue_aluminum_abyss_blue_sport_band_pdp_image_position-4__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/aa32c9c990db2148abb7bfc31f8fb153/apple_watch_series_7_cell_41mm_blue_aluminum_abyss_blue_sport_band_pdp_image_position-6__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/42d2faf0fb115fd9660fa420780dbd48/apple_watch_series_7_cell_41mm_blue_aluminum_abyss_blue_sport_band_pdp_image_position-7__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/5fddd8dcef910c8afd048efbca9f0322/apple_watch_series_7_cell_41mm_blue_aluminum_abyss_blue_sport_band_pdp_image_position-8__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f9e840b07bcaa2038ff60c948f931a47/apple_watch_series_7_cell_41mm_blue_aluminum_abyss_blue_sport_band_pdp_image_position-9__th.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a5db3b0f6cf15a96701d2730901603b6/19-41mm-midnight-midnight.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/40e8add58f08d1b7be132d39cdd19d65/23-41mm-product-red-product-red.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bd1c3441ef946b29a59015563f7b7d9b/21-41mm-green-clover.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a535e91d00dfabee2a702f739aef03da/20-41mm-starlight-starlight.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ec6f4a947bf7165ada7d7f5da5293384/27-45mm-blue-abyss-blue.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ecf00b16684109be698d7663939aec17/28-45mm-product-red-product-red.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ef071220e24f61c180e148907a6f86a5/25-45mm-starlight-starlight.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/aa26c70a450343cb2bd0fc2768f7353b/24-45mm-midnight-midnight.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/eca224a0df2a64a2bfc79cc6f91bde64/26-45mm-green-clover.jpg"
+    ],
+    "colors": [
+        "rgb(51, 51, 51)",
+        "rgb(242, 237, 228)",
+        "rgb(80, 104, 80)",
+        "rgb(61, 90, 124)",
+        "rgb(190, 52, 78)"
+    ],
+    "color_names": [
+        "Midnight, Midnight",
+        "Starlight, Starlight",
+        "Green, Clover",
+        "Blue, Abyss Blue",
+        "(PRODUCT) Red, (PRODUCT) Red"
+    ],
+    "rams": [
+        "41mm",
+        "45mm"
+    ]
+}

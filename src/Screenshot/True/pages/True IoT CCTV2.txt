@@ -1,0 +1,11 @@
+{
+    "model": "True IoT CCTV2",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a6ef822a69f54cfc5ce56ae8098f58f3/image.png",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/063221162c26b8ec1bcc7d548dc4b9b5/01-true-iot-cctv2_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/534e5c82714e774ba1d99fa6fe980ae4/01-true-iot-cctv2.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

@@ -1,0 +1,17 @@
+{
+    "model": "Tecno POVA 5G - Black",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/524cd2355dc31c57807a29f8166435e3/8-t-tecnopova5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b0b521e8cef18bd411162143b036f374/6-t-tecnopova5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/054f457486ffcfae92af3e25ed077504/11-t-tecnopova5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d654c97432dea9fa2b3cee45384ee576/12-t-tecnopova5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ee99d3c981e9dd45a97a29e0cd9f7be8/7-t-tecnopova5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d011513c985ab18f863de922b1fa2093/4-t-tecnopova5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2680d1c7817230cdc5e59e57f0c174e8/5-t-tecnopova5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/421910c47a425aa3a73a303f5dea72c2/3-t-tecnopova5g.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/814ba9d4d5807f172a433aa3df82e986/2-t-tecnopova5g.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

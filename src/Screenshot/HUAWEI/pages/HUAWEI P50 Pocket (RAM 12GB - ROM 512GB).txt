@@ -1,0 +1,18 @@
+{
+    "model": "HUAWEI P50 Pocket (RAM 12GB / ROM 512GB)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/40539f3bfbd77f1fefeafd1d85d5bf73/03-huawei-p50-pocket-12-256gb_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/47a4159c7c7dd3c9fa45d8dce73de389/mkt_bali_product-image_hq_premium-gold_front_expand_unlock.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/97e2c7ab8e075953d3587b9f8f53fb78/mkt_bali_product-image_hq_premium-gold_front_30_right_expand_unlock.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/70ccb9cd9a1e946ce58122daf0c15427/mkt_bali_product-image_hq_premium-gold_rear_30_right_expand_unlock.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/bc11ea0573662ac95498458716e9b9c0/mkt_bali_product-image_hq_premium-gold_-rear-_30_right_half-fold_120_unlock.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/326e9301fbc77d262e930bad65364982/mkt_bali_product-image_hq_premium-gold_rear_downfold_180_unlock.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ffd2512fadc48ebb3f06a305da46b6bc/mkt_bali_product-image_hq_premium-gold_rear_upfold_180_unlock.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1f0b133a60ce9b66db6227dacf603729/mkt_bali_product-image_hq_premium-gold_rear_30_right_fold_unlock.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/728a7169578122bad3e39139a6a6a504/mkt_bali_product-image_hq_premium-gold_front_horizontal_expand_unlock.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/52d3db3c3a120527f5674ebd1de5f32f/mkt_bali_product-image_hq_premium-gold_rear_horizontal_expand_unlock.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

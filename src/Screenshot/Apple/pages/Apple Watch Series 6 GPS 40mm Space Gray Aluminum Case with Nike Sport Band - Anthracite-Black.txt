@@ -1,0 +1,16 @@
+{
+    "model": "Apple Watch Series 6 GPS 40mm Space Gray Aluminum Case with Nike Sport Band - Anthracite/Black",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c9834d8fe37e3fd5956e27818735ce8e/apple-watch-series-6-gps-40mm-space-gray-aluminum-case-with-nike-sport-band---anthraciteblack-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/246d12b8472478d224b99de4d79d1aa8/apple-watch-series-6-gps-40mm-space-gray-aluminum-case-with-nike-sport-band---anthraciteblack-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7e43fbc08f98642a986d56bbfd6269c5/apple-watch-series-6-gps-40mm-space-gray-aluminum-case-with-nike-sport-band---anthraciteblack-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/244629cdfa795e7e20fd92fc7726d4eb/apple-watch-series-6-gps-40mm-space-gray-aluminum-case-with-nike-sport-band---anthraciteblack-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/470b01aa6941898cba83f7ffa6722cdf/apple-watch-series-6-gps-40mm-space-gray-aluminum-case-with-nike-sport-band---anthraciteblack-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/49fe670f2875dd48e78c6aacacebf74e/apple-watch-series-6-gps-40mm-space-gray-aluminum-case-with-nike-sport-band---anthraciteblack-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e22ad5859bf0ae5a26b7e0481247a4c8/apple-watch-series-6-gps-40mm-space-gray-aluminum-case-with-nike-sport-band---anthraciteblack-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/149e089692bead6c540cedc137c6aad1/apple-watch-series-6-gps-40mm-space-gray-aluminum-case-with-nike-sport-band---anthraciteblack-8.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

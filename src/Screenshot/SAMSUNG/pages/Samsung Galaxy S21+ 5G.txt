@@ -1,0 +1,31 @@
+{
+    "model": "Samsung Galaxy S21+ 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/025ab547e0bc761632f7557204a093ab/1-91730059.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1951670b7e750cbd358d59c8cb11654f/3-91730059.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f44d0d7b546dccac53b9672231434b6b/2-91730059.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c974087e9c6436636e454339114bbaef/s21plus-phantom-silver-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/63f7a080f069d8923f7b575aea81564c/s21plus-phantom-silver-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1f13724445ca28f86625ee6d5c4ab44f/s21plus-phantom-silver-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7b0caae21c48d5cab8d068df079f05ef/s21plus-phantom-silver-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8bb9ad81c332b18fb84c48b6a50354da/s21plus-phantom-silver-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/0f9424933f4b05241ed8840ff03568d4/1-s21plus-sidesshot.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/318131629dc1381862c6aa5dae644d12/4-91730059.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c6883fb4db7790739abe0ccf52f4efab/6-91730059.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/cfcd2d561892f6903e30ec718cb1e07c/7-91730059.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/581904cc71f69b2f6d770f544850a197/8-91730059.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/cd188987647c1673fe58826b2e1fc04f/9-91730059.jpg"
+    ],
+    "colors": [
+        "rgb(25, 25, 25)",
+        "rgb(113, 104, 161)"
+    ],
+    "color_names": [
+        "Phantom Black",
+        "Phantom Violet"
+    ],
+    "rams": [
+        "128GB",
+        "256GB"
+    ]
+}

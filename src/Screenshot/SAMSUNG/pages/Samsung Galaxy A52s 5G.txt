@@ -1,0 +1,28 @@
+{
+    "model": "Samsung Galaxy A52s 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e687d140254e6db901e4eefeeea47849/sm_a528_galaxya52s-5g_awesome-mint_back_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e4d319ff4737557536da45afa7c53e4d/sm_a528_galaxya52s-5g_awesome-black_back_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6d3f5b77925ba6c38dae3c093e795286/sm_a528_galaxya52s-5g_awesome-violet_back_r_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e509298cf51d8311b97781950b6eb3a7/sm_a528_galaxya52s-5g_awesome--violet_front.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/78cc8c2c1b40428e16687596b52aad2c/sm_a528_galaxya52s-5g_awesome-violet_back.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/aee238675b5cc535c6762ff6e98a8c3a/sm_a528_galaxya52s-5g_awesome--violet_backl30.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4d2255c3fde799891236710a255ece71/sm_a528_galaxya52s-5g_awesome--violet_backr30.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/071527ef1b2415ce12ed597cba4400a2/sm_a528_galaxya52s-5g_awesome--violet_lside.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/85286afaa6052fad561f31822bd19338/sm_a528_galaxya52s-5g_awesome--violet_rside.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c47acea80ef53589dea537218221cd1c/sm_a528_galaxya52s-5g_awesome-black_back_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/89402083a18dd2d73aa51350f7bfc552/sm_a528_galaxya52s-5g_awesome-violet_back_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/80c900ba64bd2458d58ef2cb6a76f4d5/sm_a528_galaxya52s-5g_awesome-mint_back_r.jpg"
+    ],
+    "colors": [
+        "rgb(192, 190, 214)",
+        "rgb(49, 49, 49)",
+        "rgb(214, 255, 232)"
+    ],
+    "color_names": [
+        "Awesome Violet",
+        "Awesome Black",
+        "Awesome Mint"
+    ],
+    "rams": []
+}

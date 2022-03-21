@@ -1,0 +1,15 @@
+{
+    "model": "Galaxy Watch Active 2 Stainless 40mm eSim - Black",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/afa1093d618d2a4bd90d5d64550559cb/02-3000082017-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/acaee6dff30ece5ac080ae88c73b2dd0/02-3000082017-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/136c6e337fd7557738926ca8661db92d/02-3000082017-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ad922d0b69a771baaf6d39c8743b34e3/02-3000082017-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/67f5b74b88b9ecb521f195eb0c2995ca/02-3000082017-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f4306c8b5da582d1bbcf3a36842eec9d/02-3000082017-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9716b3f07861722789398afcd6304da7/02-3000082017-6.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

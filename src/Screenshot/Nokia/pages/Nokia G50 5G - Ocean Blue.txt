@@ -1,0 +1,18 @@
+{
+    "model": "Nokia G50 5G - Ocean Blue",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4ba2aa512b811831bf66791cb605a05f/group-shot_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/89bf87a6377072325c24f2ace7e0274d/group-shot.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/daa21435644f6b2ae1ea91793a17f50d/group-shot3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b50b13cf8e64a8efb396963656d78238/group-shot2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ae9c28233c63646e162f613ec0d8706b/nokia-g50_rational_oceanblue_front_ls_ds_png.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/88b48a42a0ced10f7cda3f485b1e2a4c/nokia-g50_rational_oceanblue_lhs_45_ls_ds_png.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4a8bacccab35305d54a4e09203217c9a/nokia-g50_rational_oceanblue_rhs_45_ls_ds_png.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a2baddf88684437a0e8e9bab27aa9f18/nokia-g50_rational_oceanblue_back_png.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/07316074a7da69cbdcbda0e8daa739e0/nokia-g50_rational_oceanblue_side_png.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2688e0815e5f6616e5644c8e760b5145/picture1--new.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

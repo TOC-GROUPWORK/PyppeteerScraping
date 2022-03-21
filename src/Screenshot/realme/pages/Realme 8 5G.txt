@@ -1,0 +1,26 @@
+{
+    "model": "Realme 8 5G",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/fb848757d26b201d7cc410f79634b127/91744096-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/025607f8b68248f42a59f893d73ab033/91744096-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/e2cf18ae4e3be06441050fc26fe7a251/02-3000090891-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/8c5c81940710bc525fff71ea01d5669f/02-3000090891-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/63a0e91e259e2a5f7ecc9efe4b74dac2/02-3000090891-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4f4142d8b49abff5045e3200ea9482ac/02-3000090891-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/2e799becc7336723246530cf1827b52e/02-3000090891-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a4e22c754204388a85cb90dc6f5ac3ab/02-3000090891-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/ec61bea51d30b84df0fe4cc96a4a0a9b/02-3000090891-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/3c0e549b60680c7435f8478992055fd4/02-3000090891-8.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/1f6834b2ea93709e8e75eae409af4e82/02-3000090891-2_r.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/84d8b3e2fe6a627487cbd16ed834e443/01-3000090890-2_r.jpg"
+    ],
+    "colors": [
+        "rgb(27, 29, 42)",
+        "rgb(108, 151, 196)"
+    ],
+    "color_names": [
+        "Supersonic Black",
+        "Supersonic Blue"
+    ],
+    "rams": []
+}

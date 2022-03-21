@@ -1,0 +1,18 @@
+{
+    "model": "LENOVO TAB M10 FHD+ 4/128",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a50277bac67da2078af9b65b31284149/tab_m10_fhd_plus_2nd_gen_ct1_01_t.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/01b1d022f060b72de379191739175d61/tab_m10_fhd_plus_2nd_gen_ct1_01.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/7dfa19cedf9730681f016c2dd40e990d/tab_m10_fhd_plus_2nd_gen_ct1_02.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9496c3edff9777fa881d8d35fa8451b2/tab_m10_fhd_plus_2nd_gen_ct1_03.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/9ad1cafc244a6b4729c90359f2c05251/tab_m10_fhd_plus_2nd_gen_ct2_05.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/a76296c149a63806f0501e2d529f0488/tab_m10_fhd_plus_2nd_gen_ct2_06.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/b4ed3ada3534835c273904c335487c8b/tab_m10_fhd_plus_2nd_gen_ct4_04.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/225abab701e9fa1cd40b0c56c96ad38c/tab_m10_fhd_plus_2nd_gen_ct2_07.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/da6b12dda9ec5492f4d634dfe82a304f/tab_m10_fhd_plus_2nd_gen_ct4_03.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/237019fdf5108aeb74b3876d9b270a63/tab_m10_fhd_plus_2nd_gen_ct4_02.jpg"
+    ],
+    "colors": [],
+    "color_names": [],
+    "rams": []
+}

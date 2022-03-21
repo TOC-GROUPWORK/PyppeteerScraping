@@ -1,0 +1,31 @@
+{
+    "model": "iPad Pro \u0e43\u0e2b\u0e21\u0e48 \u0e23\u0e38\u0e48\u0e19 11 \u0e19\u0e34\u0e49\u0e27 (Wi-Fi)",
+    "pictures": [
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/686b4b9c6b7ad3ad651c2ed6a8f8a04b/ipad-pro-11-wi-fi-space-gray-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/c38b406299a4921f9480c869cf7dbc35/ipad-pro-11-wi-fi-space-gray-2.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/24152f9ad5ee128386c28bd856894d6b/ipad-pro-11-wi-fi-space-gray-3.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d292c6c802d0c160830b99ce99d45f18/ipad-pro-11-wi-fi-space-gray-4.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/4e4acdb57862e4cfaed5fefeda6152fa/ipad-pro-11-wi-fi-space-gray-5.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/36ab0729fa928d2572246f3b8d4ec7d3/ipad-pro-11-wi-fi-space-gray-6.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/d44305e83ab7ab27bc867b1a6ee31283/ipad-pro-11-wi-fi-space-gray-7.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/f4a8415495f338140312d61d69aa85af/ipad-pro-11-wi-fi-space-gray-8.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/50ebf0d7ace79787bb2dca0523ace295/ipad-pro-11-wi-fi-space-gray-9.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6a4bd60b57eb877906a2cc6042f426b1/ipad-pro-11-wi-fi-space-gray-1.jpg",
+        "https://cdn-img.wemall.com/943745/w_1400,h_1400,c_thumb/6a302447471c213c510c006b4a53e9e8/ipad-pro-11-wi-fi-silver-1.jpg"
+    ],
+    "colors": [
+        "rgb(243, 243, 243)",
+        "rgb(179, 179, 179)"
+    ],
+    "color_names": [
+        "Silver",
+        "Grey"
+    ],
+    "rams": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+    ]
+}
