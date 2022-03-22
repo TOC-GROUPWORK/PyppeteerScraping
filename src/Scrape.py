@@ -1,6 +1,7 @@
 import asyncio
 from pyppeteer import launch
 import os
+from bs4 import BeautifulSoup
 import json
 
 async def Scrape():
@@ -74,8 +75,8 @@ async def Scrape():
                         const rams = document.querySelectorAll('div.relative button.p-4')
                         content.rams = Array.from(rams).map(ram => ram.innerText)
 
-                        const detail = document.querySelectorAll('div.flex-auto > div')
-                        content.detail = Array.from(detail).map(p => p.innerHTML)
+                        const detail_boxs = document.querySelectorAll('div.flex-auto > div')
+                        content.detail = Array.from(detail_boxs).map(p => p.innerHTML)
 
                         return content
                     }
@@ -87,11 +88,109 @@ async def Scrape():
             div_elements = len(content.get('detail'))
             del content['detail']
             print()
-            # print(json.dumps(content, indent=4))
 
-            f = open('src/Screenshot/' + brand + '/pages/' + content['model'].replace('/','-') + '.txt',"w+")
-            f.write(json.dumps(content, indent=4))
+            content['url'] = url
+            page_n = 0 
+            content['promotions'] = {}
+            while (True):
+                
+                # promotions = await page.querySelectorAll('div.flex-auto > div')
+                # selector = 'div.flex-auto > div:nth-child(' + div + ') > div > button > div'
+                # print(type(promotions))
+                
+                promotions = await page.evaluate('''
+                    () => {
+                        const detail_boxs = document.querySelectorAll('div.flex-auto > div')
+                        const div = Array.from(detail_boxs).map(p => p.innerHTML).length - 5
+
+                        const selector = 'div.flex-auto > div:nth-child(' + div + ') > div > button > div'
+                        const promotions = document.querySelectorAll(selector)
+                        
+                        return Array.from(promotions).map(promotion => promotion.innerText)
+                    }
+                ''')
+                ram = content['rams'][page_n]
+                content['promotions'][ram] = []
+                for index, p in enumerate(promotions):
+                    # print(type(p))
+                    content['promotions'][ram].append({ 'promotion' : p.split('\n')})
+                    # print(content['promotions'][-1])
+
+                    payment = await page.evaluate('''
+                        () => {
+                            const selector = 'div.flex-auto > div.grid.scroll-container.text-22 > div > div'
+                            const payments = document.querySelectorAll(selector)
+
+                            return Array.from(payments).map(payment => payment.innerText)
+                        }
+                    ''')
+
+                    content['promotions'][ram][-1]['payments'] = payment
+                    # print('\t', content['promotions'][-1])
+
+                    packages = await page.evaluate('''
+                        () => {
+                            const detail_boxs = document.querySelectorAll('div.flex-auto > div')
+                            const div = Array.from(detail_boxs).map(p => p.innerHTML).length - 1
+
+                            const selector = 'div.flex-auto > div:nth-child(' + div + ') > div > button'
+                            const packages = document.querySelectorAll(selector)
+
+                            return Array.from(packages).map(package => package.innerText)
+                        }
+                    ''')
+
+                    content['promotions'][ram][-1]['packages'] = []
+                    for package in packages:
+                        content['promotions'][ram][-1]['packages'].append({ 'package': package.split('\n') })
+                        details = await page.evaluate('''
+                            () => {
+                                const details = []
+                                const detail_boxs = document.querySelectorAll('div.flex-auto > div')
+                                const div = Array.from(detail_boxs).map(p => p.innerHTML).length
+
+                                let selector = 'div.package-name-container > button > div > div.package-name'
+                                let names = document.querySelectorAll(selector)
+                                names = Array.from(names).map(name => name.innerText)
+
+                                selector = 'div.option_container.flex > div > div > p:nth-child(2) > img'
+                                let images = document.querySelectorAll(selector)
+                                images = Array.from(images).map(img => img.src)
+
+                                for (let index = 0; index < names.length; index++) {
+                                    const detail = {}
+                                    detail.name = names[index]
+                                    detail.picture = images[index]
+                                    details.push(detail)
+                                }
+
+                                return details
+                            }
+                        ''')
+
+                        content['promotions'][ram][-1]['packages'][-1]['details'] = details
+                        # print(content['promotions'][-1])
+
+                        # for 
+                        # print('\t\t\t', details)
+                        # print()
+
+                    # print('\t\t',packages)
+                    # print()
+                    # exit(1)
+                page_n += 1
+                if page_n >= len(content.get('rams')):
+                    break
+
+            json_string = json.dumps(content, indent=4, ensure_ascii=False).encode('utf8')
+
+            f = open('src/Screenshot/' + brand + '/pages/' + content['model'].replace('/','-') + '.txt',"w+", encoding='utf-8')
+            f.write(json_string.decode())
             f.close()
+
+            # print(json_string.decode())
+            exit(1)
+
 
             # for index in range(1, len(content['rams']) + 1):
                 # detail
@@ -101,6 +200,7 @@ async def Scrape():
                 # payment
                 # div.flex-auto > div.grid.scroll-container.text-22 > div > div
                 # promotion
+                # div.flex-auto > div:nth-child(4) > div > button
                 # div.flex-auto > div:nth-child(2) > div > button:nth-child(2) > div
                 # ram
                 # await page.click('div:nth-child(4) > div:nth-child(%d) > button' % index)
@@ -130,7 +230,6 @@ async def Scrape():
             # print(path)
             # await page.screenshot({'path': path})
             # await page.pdf({'path': path})
-
         print()
 
     await browser.close()
