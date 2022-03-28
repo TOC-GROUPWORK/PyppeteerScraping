@@ -1,5 +1,0 @@
-version: "3.9"
-services:
-  pyppeteer:
-    build: .
-    container_name: pyppeteer

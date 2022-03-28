@@ -1,2 +1,6 @@
 test.py
 guru99.txt
+*.png
+*.yml
+
+/TrueScraping

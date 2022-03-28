@@ -20,14 +20,19 @@ Or install the lastest version from [pyppeterr's Git repo](https://github.com/py
 pip install -U git+https://github.com/pyppeteer/pyppeteer@dev
 ```
 
+You have to make sure that `Chrome driver` is in this path.
+```
+C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe
+```
+
 ## Usage
 
 Run the command below in this directory to get the brands list in this app.
 ```cmd
-python src/app.py
+python BrandScraping.py
 ```
 
 Run the command below in this directory to get information of the phone's promotion.
 ```bash
-python src/Scrape.py
+python ModelScraping.py
 ```
